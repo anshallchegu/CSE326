@@ -1,0 +1,56 @@
+Does c++ provide persistence to an object? 
+
+Breifly describe the header content of IPv4 with a neat sketch.
+
+What is dispatcher?
+
+List out any three advantages for exception handling which makes c++ program more efficient.
+
+Explain in brief about proxy firewall.
+
+What do you mean by thrashing? 
+
+Discuss about predictive data mining techniques.
+
+Discuss about the operations that are performed on a data warehouse.
+
+List and describe the five primitives for specifying a data mining task.
+
+Differentiate between data mart and data warehouse.
+
+Explain about any four major features of object oriented programming.
+
+Compare the circuit switching and virtual circuit switching methods.
+
+When you were asked to design a data mining system, what are the different issues that you need to consider with respec to various scenario?
+
+Specify the advantage of using data warehouse compared to the previous methods of handling heterogenous databases.
+
+Describing buffering in th I/O subsystem of an operating system.
+
+Describe the authentication algorithm using Digital-Signature technique.
+
+Define data warehouse.
+
+Discuss various OLAP operations with an example.
+
+Explain in detail the concept of Simple Network Management Protocol.
+
+Highlight the steps in the data mining process.
+
+Highlight the need for overloading a generic function template to swap two variables with an explicit specialization for strings wit program example.
+
+What is the usage of scope resolution operator in c++?
+
+Explain the concept of Go back N protocol.
+
+What is the drawback of Go back N protocol?
+
+Infer the uses of statistics in data mining.
+
+Explain three tier data warehouse architecture with neat diagram.
+
+Explain Readers-Writers problems with a suitable pseudo code.
+
+Compare Classification and Clustering techniques.
+
