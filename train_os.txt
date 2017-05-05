@@ -1,0 +1,51 @@
+What is operating system?
+
+How does operating system helps us?
+
+What is the need of operating system?
+
+What are the various kinds of operating systems available?
+
+What is Scheduling in operating system?
+
+What are the types of scheduling?
+
+What happens if the time allocated in round robin scheduling is very large?
+
+What happens if the time allocated in round robin scheduling is very small?
+
+What is dispatcher?
+
+What is dispatcher latency?
+
+How does the next CPU burst would be calculated?
+
+What do you mean by thrashing?
+
+How can be thrashing idntified and eliminated?
+
+Explain Readers-Writers problems.
+
+What are the various file allocation strategies?
+
+Which file allocation strategy is most appropriate for random access files?
+
+Describe buffering in the I/O subsytem of an operating system.
+
+Describe authentication algorithm using digital signature technique.
+
+Discuss in detail about shared memory.
+
+Discuss in detail about message memory.
+
+Explain about fragmentation.
+
+What is paging?
+
+Explain in detail about segmentation.
+
+Explain the implementation of access matrix for enforcing protection using access lists for objects.
+
+Write a short note on Convoy effect.
+
+Explain about Compaction.

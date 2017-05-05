@@ -1,0 +1,176 @@
+
+What is the object in c++?
+
+How will you define the objects in c++?
+
+How can be the public data members of objects of a class can be accessed?
+
+What are the other concepts related to c++ objects?
+
+How will you create the object?
+
+"All objects of a class share all data members of a class" True-justify?
+
+Do objects of a class share non-static members?
+
+What type of class allows only one object of it to be created?
+
+What is the class in c++?
+
+How will you define classes in c++/
+
+What are the concepts related to class?
+
+How will you create a class?
+
+Difference between struct and classes in c++?
+
+What is the default access to members of a class?
+
+Do c++ classes have their own members?
+
+What are the two types of class?
+
+What is the important feature of c++ classes?
+
+Is class in c++, a user defined type?
+
+What is the constructor on c++?
+
+How are the constructors declared?
+
+What is the main use of constructors?
+
+What are the limitations of constructors?
+
+When should a constructor to be used in c++?
+
+When a constructor should not be used in c++?
+
+What are the types of constructors?
+
+Do constructor have the same exact name as of the class?
+
+What is the parametrized constructor?
+
+How will you initialise a constructor?
+
+What is the destructor on c++?
+
+How are the destructors declared?
+
+What is the main use of destructors?
+
+What are the limitations of destructors?
+
+When should a destructor to be used in c++?
+
+When a destructor should not be used in c++?
+
+What are the types of destructors?
+
+Do destructor have the same exact name as of the class?
+
+How will you initialise a destructor?
+
+How declaring of destructor is different from constructor?
+
+What is the object oriented paradigm?
+
+Where object oriented paradigm is focussed on?
+
+What are the benefits of object oriented paradigm?
+
+What are the main characteristics of object oriented paradigm?
+
+What programming structure does object oriented paradigm uses?
+
+What are the features of object oriented paradigm?
+
+What is composition, Explain the purpose of it?
+
+What is an abstraction and why is it important?
+
+How a program can be structured using the concept of Object oriented programming?
+
+What are Extrinsic and Intrinsic Connections in object-oriented programming?
+
+What is exception handling in c++?
+
+What are the three keywords of exception handling in c++?
+
+How to throw exceptions in c++?
+
+How to catch the thrown exceptions in c++?
+
+What are the c++ standard exceptions?
+
+How to define new exceptions in c++?
+
+Why to use exception handling in c++?
+
+What happens when an exception is thrown and not caught anywhere?
+
+What are built-in exceptions?
+
+Give some examples for Exceptions derived directly from exception class.
+
+What is data file handling in c++?
+
+What are the Classes for file stream operation?
+
+How to open a file in c++?
+
+How to close a file in c++?
+
+Explain about file pointers and their manipulations?
+
+Give a example for a basic operation on text file in c++?
+
+Give a example for a basic operation on binary file in c++?
+
+Give a example for Read and Write operations?
+
+What is file position pointers?
+
+Why to use a file handling?
+
+What are the functions used in a file handling?
+
+Explain about function overloading in c++?
+
+How function overloading is achieved in c++?
+
+Write a program using function overloading method?
+
+What are the rules in function overloading?
+
+What are the two ways of overloading a function?
+
+Give some examples for functions that cannot be overloaded in c++?
+
+When to use function overloading in c++?
+
+What are the restrictions of overloaded functions?
+
+Discuss about argument type differences.
+
+What are templates in c++?
+
+What are the different types of templates?
+
+Explain about function templates with exmaple? 
+
+Explain about class templates with exmaple? 
+
+How to define templates?
+
+What are the benefits of using templates?
+
+When can be usage of templates is efficient?
+
+How to declare function and class templates?
+
+Write a c++ program to find the largest number using function template?
+
+Write a c++ program to swap data using function template?

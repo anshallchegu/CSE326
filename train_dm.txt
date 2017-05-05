@@ -1,0 +1,100 @@
+
+Discuss about the operations that are performed on a data warehouse.
+
+Compare and contrast daa mart and data warehouse.
+
+Describe about any two methods that improves the efficiency of apriori algorithm.
+
+Discuss about predictive data mining techniques.
+
+What are the different methods that you will consider to solve noisy data in a database?
+
+List and describe the five primitives for specifying a data mining task.
+
+Discuss about different type of concept hierarchies.
+
+When you were asked to design a data mining system, what are the different issues that you need to consider with respect to various scenarios?
+
+Discuss about the major clustering techniques.
+
+Discuss relational databases and transactional databases.
+
+Enumerate the factors to be considered while selecting the sample in statistics.
+
+Infer on the uses of statistics in data mining.
+
+Give some of the factors for evaluating performance of a learning algorithm.
+
+Highlight the steps in the data mining process.
+
+Name some conventional visualization techniques.
+
+Write down the importance of probabilistic graphical model.
+
+Define data discretization.
+
+List the types of data pre processing techniques.
+
+Discuss the smoothing techniques.
+
+Interpret the different types of data repositories on which mining can be performed.
+
+Summarize various issues that have to be addressed during data integration.
+
+Give an explanatory note on Attribute oriented Induction, describe how this is implemented.
+
+Discuss the functional components of data mining graphical user interface.
+
+Explain in detail the Time Series Analysis with an example.
+
+Tell a story on Outlier analysis.
+
+Describe about the various operations that can be performed on a data warehouse.
+
+Compare OLAP and OLTP.
+
+Discuss the sequence of steps that you will follow for the knowledge discovery process.
+
+Discuss the issues to be considered during Data Integration.
+
+Discuss in detail about the unsupervised data mining techniques.
+
+Discuss about various methods that you have to consider to handle missing values.
+
+how the interstingness measures are estimated by certainity,utility and novelty?
+
+Describe about hash based and transaction reduction techniques that improves the efficiency of Apriori Algorithm.
+
+Represent the usage of the different data mining techniques in a travel agency.
+
+Discuss about any two descriptive data mining techniques.
+
+Explain evolution analysis with examples.
+
+Represent the usage of the different data mining techniques in a university database.
+
+Discuss in detail, any two applications of cluster analysis.
+
+State the difference between operational database systems and Data warehouse with eight features.
+
+Describe two challenges to data mining regarding performance issues.
+
+Discuss the application of Data mining for Financial data analysis.
+
+How do you compute the similarity between the objects described by binary variables in clustering analysis?
+
+Describe the different stage of process involved in discovering interesting pattern from large amount of data.
+
+Describe the partitioning methods, hierarchial methods and clustering high dimensional data approaches to clustering methods.
+
+What is data mining?
+
+What is prediction?
+
+Describe three challenges in the field of data mining regarding data mining methodolog and user interaction issues.
+
+Why data pre processing is important?
+
+Why business need to have separate data warehouses?
+
+With an example, explain linear,multiple and no linear regression.

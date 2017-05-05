@@ -1,0 +1,100 @@
+
+Propose and illustrate a complete computer network using all existing networking hardwares and explore the OSI layer.
+
+Discuss the importance of encoding in computer networks.
+
+Discuss the needs for quality of service(Qos) in computer networks with relevant examples.
+
+Identify and evaluate various parameters that could act as basis for providing quality of service.
+
+Demonstrate Bellman Ford algorithm with a neat example.
+
+Elucidate how Bellman Ford algorithm differs from Dijkstra's algorithm.
+
+Write a short note on Network security and Virtual Private Networks.
+
+Name the importance of addressing and naming in computer networks.
+
+Explain any three application layer protocols and illustrate their architecture with detailed explanation
+
+Explain how naming services have been used in Internet with an example.
+
+Analyze in detail regarding the importance of Round trip time, Bandwidth, propagation Delay with respect to LANs and WANs.
+
+Analyze various switching standards and identify suitable networking application for each standard with a simple clarification.
+
+State the importance of access technologies in computer networks.
+
+Discuss the TCP operation in detail.
+
+Discover various issues in TCP protocol and suggest remedies for the same with suitable scenarios.
+
+Write short notes on Transport Layer Security and Firewalls.
+
+Exhibit Dijkstra's algorithm with a neat example.
+
+Name any three session layer protocols and illustrate their architecture with detailed explanation.
+
+Discover the requirements of network management in detail.
+
+Justify why services offered by computer networks should be classified with few examples.
+
+Explain the working concepts of cell switching using various virtual connections and header format of cell switching with diagram.
+
+Explain the Frame Relay frame structure.
+
+What are three fundamental characteristics to determine the effectiveness of data communication? 
+
+What are the key elements of protocol.
+
+What is the difference between the service point address, logical address and physical address in terms of layers, bits and format?
+
+Explain the protocols of every layers in TCP/IP protocol suite.
+
+Suppose there is heavy traffic on both CSMA?CD and TOKEN RING, On which system is a station more likely to wait?
+
+Explain fields of IEEE 802 frame format and discuss how the shared medium is accessed and collision is detected ?
+
+How the conjection is reduced in network using leaky bucket algorithm?
+
+Elucidate the process of data integrity in secured network using MD5 algorithm?
+
+How does VPN is guarantee the secure and privacy communication for an organization?
+
+Discuss the functions, elements and structure of Network Management System.
+
+Discuss about Fast Ethernet. Compare its performance with variations of Ethernet.
+
+Explain the functionality of token buket algorithm.
+
+Discuss the advantages and disadvantages of token bucket algorithm.
+
+Discuss the purpose of fragment offset and time to live field in IP diagram.
+
+Datagram fragmentation and reassembly are handled by IP and are invisible to TCP, Does this mean TCP does not have to worry about data arriving in the wrong order?
+
+Higher throughput can be achieved by prioritizing certain service, List out the various issues faced by messages that are transmitted over the Internet.
+
+Explain the design constraints of protocols, Also mention the responsibilities of OSI model.
+
+List and explain the various contolled access method.
+
+What type of errors can be detected by CRC, How is it implemented?
+
+Explain about the Carrier sense multiple access protocol with collision detection.
+
+Explain three-way handshake process of setting up and closing of a connection in TCP.
+
+Explain man-in-the-middle attack anf=d justify how diffle hellamn is prone to above said attack.
+
+Compare and contrast the IPv4 and IPv6 header fields.
+
+Sort out the reasons for ehy ATM is not heavily used in the industry.
+
+Explain the difference between tunnelling and header translation strategies during the transition period.
+
+Design a bidirectional algorithm for the stop wait ARQ protocol using piggybanking.
+
+Name the four basic network topologies and explain them giving all the relevant features.
+
+List the four general categories of threats, explain how symmetric and asymmetric cryptosystems works?
